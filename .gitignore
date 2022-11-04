@@ -1,0 +1,4 @@
+environment
+.ipynb_checkpoints/
+kaggle.json
+requirements.txt
